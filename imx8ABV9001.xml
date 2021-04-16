@@ -23,7 +23,7 @@ https://gerrit.googlesource.com/git-repo/+/HEAD/docs/manifest-format.md
 
   <!-- Advantech RISC Devices Kernel and U-Boot -->
   <project remote="advantech-github" name="uboot-imx6" path="vendor/nxp-opensource/uboot-imx" revision="5d5534b9a1d2a21d6a86e2308b0471f792c2ae40"/>
-  <project remote="advantech-github" name="linux-imx6" path="vendor/nxp-opensource/kernel_imx" revision="87b78d0e456e4ea963d3ce405fc09cf7cd11d106"/>
+  <project remote="advantech-github" name="linux-imx6" path="vendor/nxp-opensource/kernel_imx" revision="7f3916ec69611326c1bc8fe8f7f0d8bda759141c"/>
 
   <!-- Advantech RISC Devices Kernel and U-Boot Patch file-->
   <project remote="advantech-github" name="Android_Patch" path="patches_android_9.0.0_r35" revision="4b50df9dd54b327e84d8e23abb36d92bc0640b75"/>
